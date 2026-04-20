@@ -1,0 +1,5 @@
+product_name,unit_cost,fixed_cost,base_price,base_demand,elasticity,competitor_min,competitor_max
+Cold Brew Coffee Pack,4.25,700.0,9.5,230.0,1.2,8.5,11.0
+Handmade Candle Set,7.4,950.0,18.0,150.0,1.0,16.0,22.0
+Student Tutoring Session,12.0,600.0,30.0,90.0,1.5,25.0,35.0
+Campus Merch Tote Bag,6.8,800.0,16.5,180.0,1.3,14.0,19.0
